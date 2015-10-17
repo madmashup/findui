@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindMyPhone</string>
+    <string name="title_activity_toolbar">FindMyPhone</string>
+
+    <string name="text">Text here</string>
+    <string name="action_settings">Settings</string>
+</resources>
